@@ -13,7 +13,8 @@ questo paradigma:
 - e l'**ereditarietà**.
 
 Questo articolo introdurrà la terza di quelle caratteristiche:
-l'**ereditarietà**.
+l'**ereditarietà**. È consigliato scrivere ed eseguire il codice mentre si
+legge l'articolo.
 
 ## 👎 Cosa non è
 
@@ -84,7 +85,7 @@ char[][][][]  articolo;
 ereditare una **classe** significa ereditare tutti i suoi metodi e tutte le
 sue proprietà.
 
-Potremmo utilizzare le **persone** ed i **programmatori** come esempio: i
+Potremmo utilizzare le **persone** ed i **programmatori** come esempio. I
 **programmatori**, prima di essere tali, sono **persone**: hanno tutte le
 proprietà che le persone hanno, perchè anche loro sono persone. In un
 linguaggio orientato agli oggetti potremmo disegnare una `classe Persona` per
@@ -110,16 +111,16 @@ cosiddetta _"superclasse"_, e da essa staremmo _"derivando"_ una nuova `classe B
 Come si traduce tutta questa teoria in _Java_?
 
 1. Già dovremmo sapere bene come definire una nuova classe ed istanziarne
-   oggetti, quindi non spiegherò il seguente pezzo di codice.
+   oggetti.
 
 ```java
 public class A {
 
-  public int a;
+    public int a;
 
-  public A() {
-    a = 0;
-  }
+    public A() {
+      a = 0;
+    }
 
 }
 ```
