@@ -147,7 +147,7 @@ System.out.println(oggetto.a);
 , possiamo notare che il nostro oggetto effettivamente ha ha ereditato
 l'attributo `a` dalla classe `A` anche se noi non l'abbiamo esplicitamente
 dichiarato nella definizione della classe `B` (abbiamo solo dichiarato che la
-classe `B` avrebbe implementato `A`).
+classe `B` avrebbe esteso `A`).
 
 3. In _Java_, tutti gli oggetti hanno un metodo `getClass()` che ritorna, come
    potremmo intuire dal nome, la classe dell'oggetto. Seguendo il nostro
