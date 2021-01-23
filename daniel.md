@@ -19,7 +19,7 @@ l'**ereditarietà**.
 
 - ### In poche parole,
 
-quando una classe eredita un altra classe, non sta diventando una
+quando una classe eredita un'altra classe, non sta diventando una
 **collezione** di oggetti della classe che sta ereditando, come si potrebbe
 erroneamente pensare.
 
