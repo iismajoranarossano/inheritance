@@ -4,7 +4,7 @@
 
 ## Introduzione
 
-Quanto il prof ci spiegò cosa fosse la **programmazione orientata agli
+Quando il prof ci spiegò cosa fosse la **programmazione orientata agli
 oggetti** per la prima volta, nominò le 3 caratteristiche fondamentali di
 questo paradigma:
 
