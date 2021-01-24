@@ -13,8 +13,8 @@ questo paradigma:
 - e l'**ereditarietà**.
 
 Questo articolo introdurrà la terza di quelle caratteristiche:
-l'**ereditarietà**. È consigliato scrivere ed eseguire il codice mentre si
-legge l'articolo.
+l'**ereditarietà**. _È consigliato scrivere ed eseguire il codice mentre si
+legge l'articolo._
 
 ## 👎 Cosa non è
 
