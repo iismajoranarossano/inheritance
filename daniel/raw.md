@@ -68,7 +68,7 @@ l'ereditarietà è disegnata per fare.
 Sappiamo che in _Java_ tra i **tipi primitivi** abbiamo i `char`, caratteri
 Unicode. Loro potrebbero essere le nostre "lettere", poi procederemmo
 semplicemente utilizzando un `array di char` per rappresentare le parole, un
-`array di array di char` per le lettere, e così via.
+`array di array di char` per le frasi, e così via.
 
 ```java
 char          lettera;
