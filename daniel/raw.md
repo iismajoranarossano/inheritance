@@ -1,6 +1,6 @@
 # L'ereditarietà
 
-> Daniel Falbo --- <danielfalbo@engineer.com>
+> Daniel Falbo
 
 ## Introduzione
 
